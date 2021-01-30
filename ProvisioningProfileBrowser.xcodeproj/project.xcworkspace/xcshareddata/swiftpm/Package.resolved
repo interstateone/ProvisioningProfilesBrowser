@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "SwiftyProvisioningProfile",
+        "repositoryURL": "https://github.com/Sherlouk/SwiftProvisioningProfile",
+        "state": {
+          "branch": null,
+          "revision": "5868407dac78538bab3dbf3a55c06f7b96f25b67",
+          "version": "2.0.1"
+        }
+      },
+      {
+        "package": "Witness",
+        "repositoryURL": "https://github.com/njdehoog/witness.git",
+        "state": {
+          "branch": null,
+          "revision": "b0469457b460fc78620e3b456fed9b18669100d5",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -10,6 +10,8 @@
 - Double click icon to reveal in finder, or drag it like a file
 - List automatically updates when the directory contents change
 
+You can download a .zip of the latest version of the app [here](https://github.com/interstateone/ProvisioningProfilesBrowser/releases/latest). It's a Developer ID-signed and notarized release build.
+
 Dependencies:
 
 - [Sherlouk/SwiftProvisioningProfile](https://github.com/Sherlouk/SwiftProvisioningProfile)
